@@ -10,11 +10,6 @@ Projet ENSAE Paris sur la parallélisation des arbres de décision et des random
 - `src/` : implémentation de l'arbre de décision et de la random forest.
 - `report/main.tex` : rapport LaTeX prêt pour Overleaf.
 
-## Installation
-
-```bash
-python -m pip install -r requirements.txt
-```
 
 ## Exécution
 
